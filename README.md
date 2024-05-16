@@ -36,8 +36,9 @@ Implementasi IoT pada Smart Office sebagai simulasi konsep efisiensi daya berbas
   5.	Sensor Ultrasonic x 1
 
 ## Board Schematic
-![WhatsApp Image 2024-05-16 at 16 07 05](https://github.com/joeydrivers/pa-praktikum-iot-unmul-C-kelompok1/assets/113220671/11649d5b-b95f-4f08-927f-ec86671d9c1d)
-![WhatsApp Image 2024-05-16 at 16 07 01](https://github.com/joeydrivers/pa-praktikum-iot-unmul-C-kelompok1/assets/113220671/8c00638f-d741-419b-9065-f25a6ab7346d)
+![WhatsApp Image 2024-05-16 at 15 45 54](https://github.com/joeydrivers/pa-praktikum-iot-unmul-C-kelompok1/assets/113220671/40c94b0b-fd75-43a5-a0b3-bbb3a2bae2bd)
+![WhatsApp Image 2024-05-16 at 15 50 45](https://github.com/joeydrivers/pa-praktikum-iot-unmul-C-kelompok1/assets/113220671/4301f750-3b5d-4264-92a2-a53fc0a8a07f)
+
 
 
 
